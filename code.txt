@@ -1,0 +1,2 @@
+#1
+{model.add(Dense(units=50, activation='relu'))}
